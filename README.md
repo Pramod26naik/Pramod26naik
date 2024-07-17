@@ -61,4 +61,25 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
  
+<h3 align="left">GitHub Stats:</h3>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/shahanshahsidd208?cardType=github&theme=midnight-purple&preferLogin=false&Background=000000" alt="My Awesome Stats" />
+  </a>
+<a href="https://github.com/Shahanshahsidd208">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahanshahsidd208&layout=donut&theme=midnight-purple&text_bold=true&show_icons=true" alt="Top Languages" />
+</a>
+</div>
+<h3 align="left">Top Repositories:</h3>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+
+<a href="https://github.com/Shahanshahsidd208/KSP-Profile-Analysis-dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahanshahsidd208&repo=KSP-Profile-Analysis-dashboard&theme=midnight-purple&description_lines_count=3&text_bold=true&show_icons=true" />
+</a>
+<a href="https://github.com/Shahanshahsidd208/Anonymous-reporting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahanshahsidd208&repo=Anonymous-reporting&theme=midnight-purple&description_lines_count=3&text_bold=true&show_icons=true" />
+</a>
+</div>
+
 </p>
