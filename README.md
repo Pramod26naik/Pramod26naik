@@ -64,7 +64,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/shahanshahsidd208?cardType=github&theme=midnight-purple&preferLogin=false&Background=000000" alt="My Awesome Stats" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Pramod26naik?cardType=github&theme=midnight-purple&preferLogin=false&Background=000000" alt="My Awesome Stats" />
   </a>
 <a href="https://github.com/Pramod26naik">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramod26naik&layout=donut&theme=midnight-purple&text_bold=true&show_icons=true" alt="Top Languages" />
