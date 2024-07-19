@@ -72,7 +72,7 @@
 
 
 
-<h3 align="left" style="color: #b5b45c;">Top Repositories:</h3>
+<h3 align="left" style="color: #b5b45c;">Top Repositories:-</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/Shahanshahsidd208/KSP-Profile-Analysis-dashboard">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahanshahsidd208&repo=KSP-Profile-Analysis-dashboard&theme=midnight-purple&description_lines_count=3&text_bold=true&show_icons=true&border_color=%23b5b45c" />
