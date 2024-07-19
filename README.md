@@ -1,6 +1,5 @@
 <h1 align="center" style="color: #b5b45c;">Hello World! 🌟 I'm Pramod Naik</h1>
 <h3 align="center" style="color: #b5b45c;">Passionate Programmer, Learner, and Problem Solver</h3>
-
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF">
 </div>
@@ -63,12 +62,15 @@
 <h3 align="left" style="color: #b5b45c;">GitHub Stats:</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Pramod26naik?cardType=github&theme=midnight-purple&preferLogin=false&Background=000000&Border=%23b5b45c&Text=%23b5b45c" alt="My Awesome Stats" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Pramod26naik?cardType=github&theme=light&preferLogin=false&Background=ffffff&Border=%23b5b45c&Text=%23b5b45c" alt="My Awesome Stats" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pramod26naik&theme=midnight-purple&background=000000&ring=%23b5b45c&fire=%23b5b45c&currStreakLabel=%23b5b45c" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pramod26naik&theme=highcontrast&background=ffffff&ring=%23b5b45c&fire=%23b5b45c&currStreakLabel=%23b5b45c" alt="GitHub Streak Stats" />
   </a>
 </div>
+
+
+
 
 <h3 align="left" style="color: #b5b45c;">Top Repositories:</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
