@@ -65,7 +65,7 @@
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Pramod26naik?cardType=github&theme=midnight-purple&preferLogin=false&Background=000000" alt="My Awesome Stats" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pramod26naik&theme=yellow-grey&background=#474745&ring=%23b5b45c&fire=%23b5b45c&currStreakLabel=%23b5b45c" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pramod26naik&theme=midnight-purple&background=#474745&ring=%23b5b45c&fire=%23b5b45c&currStreakLabel=%23b5b45c" alt="GitHub Streak Stats" />
   </a>
 </div>
 
