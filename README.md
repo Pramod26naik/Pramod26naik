@@ -65,14 +65,14 @@
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Pramod26naik?cardType=github&theme=midnight-purple&preferLogin=false&Background=000000" alt="My Awesome Stats" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pramod26naik&theme=yellow-grey&background=#474745&ring=%23b5b45c&fire=%23b5b45c&currStreakLabel=%23b5b45c" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pramod26naik&theme=midnight-purple&background=#474745&ring=%23b5b45c&fire=%23b5b45c&currStreakLabel=%23b5b45c" alt="GitHub Streak Stats" />
   </a>
 </div>
 
 
 
 
-<h3 align="left" style="color: #b5b45c;">Top Repositories:</h3>
+<h3 align="left" style="color: #b5b45c;">Top Repositories:-</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/Shahanshahsidd208/KSP-Profile-Analysis-dashboard">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahanshahsidd208&repo=KSP-Profile-Analysis-dashboard&theme=midnight-purple&description_lines_count=3&text_bold=true&show_icons=true&border_color=%23b5b45c" />
