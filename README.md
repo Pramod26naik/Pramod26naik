@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF">
 </div>
 
-- 📫 How to reach me pramodkumta26@gmail.co
+- 📫 How to reach me pramodkumta26@gmail.com
 
 <h3 align="left" style="color: #b5b45c;">Connect with me:</h3>
 <p align="left">
