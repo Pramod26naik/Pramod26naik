@@ -6,7 +6,7 @@
 
 - 📫 How to reach me pramodkumta26@gmail.com
 
-<h3 align="left" style="color: #b5b45c;">Connect with m</h3>
+<h3 align="left" style="color: #b5b45c;">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pramod-naik-203902222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pramod Naik" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pramod_naik96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Pramod Naik" height="30" width="40" /></a>
