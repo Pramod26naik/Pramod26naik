@@ -80,8 +80,8 @@
   <a href="https://github.com/Shahanshahsidd208/Anonymous-reporting">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahanshahsidd208&repo=Anonymous-reporting&theme=midnight-purple&description_lines_count=3&text_bold=true&show_icons=true&border_color=%23b5b45c" />
   </a>
- <a href="https://github.com/Shahanshahsidd208/Anonymous-reporting">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahanshahsidd208&repo=Anonymous-reporting&theme=midnight-purple&description_lines_count=3&text_bold=true&show_icons=true&border_color=%23b5b45c" alt="Anonymous-reporting"/>
+ <a href="https://github.com/Shahanshahsidd208/V2I-Simulator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahanshahsidd208&repo=V2I-Simulator&theme=midnight-purple&description_lines_count=3&text_bold=true&show_icons=true&border_color=%23b5b45c" alt="V2I-Simulator"/>
 </a>
 
 </div>
