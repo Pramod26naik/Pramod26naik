@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #b5b45c;">Hello World! 🌟 I'm Pramod Naik</h1>
-<h3 align="center" style="color: #b5b45c;">Passionate Programmer, Learner and Problem Solver</h3>
+<h3 align="center" style="color: #b5b45c;">Passionate Programmer, Learner and, Problem Solver</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF">
 </div>
